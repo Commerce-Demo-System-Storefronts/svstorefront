@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/Commerce-Demo-System-Storefronts/svstorefront/
+    type: markup
+
+folders:
+  /products/: /products/default
